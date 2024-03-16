@@ -21,8 +21,7 @@ npm init
 
 npm install express mongoose dotenv cors nodemon 
 
-
-
+//frontend
 for fontend ->
 
 npx create-react-app client
